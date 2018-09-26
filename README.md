@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kochat
 
 > Kochat - a vue.js chat application
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# kochat
+>>>>>>> 87d6dc48de52ffa3eaa3ddc596199050ff5fe47e
